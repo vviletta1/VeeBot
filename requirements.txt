@@ -2,4 +2,4 @@ Flask
 gunicorn
 wikipedia
 cohere
-python-dotenv 
+python-dotenv
